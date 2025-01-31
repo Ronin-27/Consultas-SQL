@@ -1,0 +1,1 @@
+UPDATE productos p SET p.Prod_Descripcion = 'Mi producto 2', p.Prod_Color = 'Mi color 2' WHERE p.Prod_Id = 6991

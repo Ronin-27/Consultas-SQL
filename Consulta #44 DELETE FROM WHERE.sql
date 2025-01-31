@@ -1,0 +1,1 @@
+DELETE FROM productos p WHERE p.Prod_Id > 6991

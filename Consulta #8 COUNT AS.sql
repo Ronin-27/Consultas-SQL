@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS registros FROM ventas v WHERE v.Ventas_Fecha = '2018-01-02'

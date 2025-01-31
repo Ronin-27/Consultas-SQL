@@ -1,0 +1,1 @@
+SELECT * FROM clientes c WHERE c.Cli_Id NOT IN (SELECT DISTINCT(v.Ventas_CliId) FROM ventas v)

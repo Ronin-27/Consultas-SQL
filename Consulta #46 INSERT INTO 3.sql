@@ -1,0 +1,1 @@
+INSERT INTO productos (Prod_descripcion, Prod_color) VALUES ('Mi producto','Mi color'),('Mi producto2','Mi color 2')

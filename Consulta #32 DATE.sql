@@ -1,0 +1,11 @@
+	SELECT CURRENT_DATE;
+	SELECT CURRENT_TIME;
+	SELECT CURRENT_TIMESTAMP;
+	SELECT DATABASE()
+	SELECT CURRENT_USER
+	
+	SELECT DATEDIFF('2023-06-25','2023-01-01') AS 'Dias desde el comienzo del año'
+	SELECT DATEDIFF(CURRENT_DATE, v.Ventas_Fecha) AS 'Antiguedad en dias', v.Ventas_NroFactura FROM ventas v
+	
+	SELECT DAYOFWEEK(CURRENT_DATE) AS 'Dia de la semana'
+	

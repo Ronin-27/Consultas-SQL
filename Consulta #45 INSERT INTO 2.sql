@@ -1,0 +1,1 @@
+INSERT INTO alumnos (Alumno_Nombre) VALUES ('Pedro Jerezp'),('Maria Antonieta'),('Pablo Neruda') 
